@@ -1,0 +1,19 @@
+C:\Users\ACER\Documents\1 УНИВЕР\3 Комп_инж_графика\Laba_graphic_12\Laba_graphic_12\bin\Debug\Laba_graphic_12.exe.config
+C:\Users\ACER\Documents\1 УНИВЕР\3 Комп_инж_графика\Laba_graphic_12\Laba_graphic_12\bin\Debug\Laba_graphic_12.exe
+C:\Users\ACER\Documents\1 УНИВЕР\3 Комп_инж_графика\Laba_graphic_12\Laba_graphic_12\bin\Debug\Laba_graphic_12.pdb
+C:\Users\ACER\Documents\1 УНИВЕР\3 Комп_инж_графика\Laba_graphic_12\Laba_graphic_12\obj\Debug\Laba_graphic_12.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\1 УНИВЕР\3 Комп_инж_графика\Laba_graphic_12\Laba_graphic_12\obj\Debug\Laba_graphic_12.Form1.resources
+C:\Users\ACER\Documents\1 УНИВЕР\3 Комп_инж_графика\Laba_graphic_12\Laba_graphic_12\obj\Debug\Laba_graphic_12.Properties.Resources.resources
+C:\Users\ACER\Documents\1 УНИВЕР\3 Комп_инж_графика\Laba_graphic_12\Laba_graphic_12\obj\Debug\Laba_graphic_12.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\1 УНИВЕР\3 Комп_инж_графика\Laba_graphic_12\Laba_graphic_12\obj\Debug\Laba_graphic_12.exe
+C:\Users\ACER\Documents\1 УНИВЕР\3 Комп_инж_графика\Laba_graphic_12\Laba_graphic_12\obj\Debug\Laba_graphic_12.pdb
+C:\Users\admin\source\repos\DonNUZELKA\course_2\computer_graphics\Laba_graphic_12\Laba_graphic_12\bin\Debug\Laba_graphic_12.exe.config
+C:\Users\admin\source\repos\DonNUZELKA\course_2\computer_graphics\Laba_graphic_12\Laba_graphic_12\bin\Debug\Laba_graphic_12.exe
+C:\Users\admin\source\repos\DonNUZELKA\course_2\computer_graphics\Laba_graphic_12\Laba_graphic_12\bin\Debug\Laba_graphic_12.pdb
+C:\Users\admin\source\repos\DonNUZELKA\course_2\computer_graphics\Laba_graphic_12\Laba_graphic_12\obj\Debug\Laba_graphic_12.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\DonNUZELKA\course_2\computer_graphics\Laba_graphic_12\Laba_graphic_12\obj\Debug\Laba_graphic_12.Properties.Resources.resources
+C:\Users\admin\source\repos\DonNUZELKA\course_2\computer_graphics\Laba_graphic_12\Laba_graphic_12\obj\Debug\Laba_graphic_12.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\DonNUZELKA\course_2\computer_graphics\Laba_graphic_12\Laba_graphic_12\obj\Debug\Laba_graphic_12.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DonNUZELKA\course_2\computer_graphics\Laba_graphic_12\Laba_graphic_12\obj\Debug\Laba_graphic_12.exe
+C:\Users\admin\source\repos\DonNUZELKA\course_2\computer_graphics\Laba_graphic_12\Laba_graphic_12\obj\Debug\Laba_graphic_12.pdb
+C:\Users\admin\source\repos\DonNUZELKA\course_2\computer_graphics\Laba_graphic_12\Laba_graphic_12\obj\Debug\CurvFit.Form1.resources
